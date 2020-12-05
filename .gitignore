@@ -1,1 +1,7 @@
 .venv
+
+.ipynb_checkpoints
+
+data/*
+local/*
+notebooks/*
